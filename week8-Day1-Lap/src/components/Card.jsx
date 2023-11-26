@@ -10,8 +10,8 @@ function Card() {
         <a className="bg-yellow-400 text-black p-2 text-bold mt-2">Shop Now</a>
       </div>
       <img
-        src="https://coastalclinical.com/wp-content/uploads/2021/08/classic-wooden-chair-1.jpg"
-        className="object-contain w-52 h-full"
+        src="https://furniture-kabukithemes.myshopify.com/cdn/shop/products/12_copy.jpg?v=1450255351"
+        className="object-cover w-52 h-full"
       ></img>
     </div>
   );
