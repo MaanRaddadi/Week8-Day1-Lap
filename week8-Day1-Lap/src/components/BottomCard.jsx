@@ -14,7 +14,7 @@ function BottomCard() {
       </div>
       <div className="flex flex-col">
         <h3 className="line-through text-xl">$260.50</h3>
-        <h2 className="text-green-500 text-xl">$219.05</h2>
+        <h2 className="text-green-500 text-3xl">$219.05</h2>
         <a className="bg-yellow-400 text-black p-2 text-bold mt-2"><strong>Shop Now</strong></a>
       </div>
       <img
